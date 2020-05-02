@@ -1,4 +1,10 @@
 __pycache__
+.vscode
 .ipynb_checkpoints
 Estudo do qui-quadrado.ipynb
 Trabalho Inteligência Artificial.ipynb
+images
+histories
+venv
+percentages
+q-tables
