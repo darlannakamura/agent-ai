@@ -1,0 +1,13 @@
+SEM DECAY:
+    - resultado: sem decay, os resultados estabilizam em 46, 47% ...
+    - conclusão: sem decay não rola.
+
+ESCOLHA DAS AÇÕES:
+    - hoje é o que mais influencia no resultado.
+    - além de suspeitar que a ordem delas também influcencia ...
+
+55% com as ações 'mean', 'median', 'up', 'down'
+
+Estabiliza a porcentagem quando não tem mais nenhum random.
+
+
